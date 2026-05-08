@@ -1,0 +1,412 @@
+[
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "01",
+        "title": "Survival",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 01 - Survival.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "02",
+        "title": "Nonstop",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 02 - Nonstop.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "03",
+        "title": "Elevate",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 03 - Elevate.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "04",
+        "title": "Emotionless",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 04 - Emotionless.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "05",
+        "title": "God’s Plan",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 05 - God’s Plan.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "06",
+        "title": "I’m Upset",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 06 - I’m Upset.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "07",
+        "title": "8 Out of 10",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 07 - 8 Out of 10.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "08",
+        "title": "Mob Ties",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 08 - Mob Ties.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "09",
+        "title": "Can’t Take a Joke",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 09 - Can’t Take a Joke.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "10",
+        "title": "Sandra’s Rose",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 10 - Sandra’s Rose.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "11",
+        "title": "Talk Up",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 11 - Talk Up.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "12",
+        "title": "Is There More",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 12 - Is There More.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "13",
+        "title": "Peak",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 13 - Peak.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "14",
+        "title": "Summer Games",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 14 - Summer Games.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "15",
+        "title": "Jaded",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 15 - Jaded.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "16",
+        "title": "Nice for What",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 16 - Nice for What.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "17",
+        "title": "Finesse",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 17 - Finesse.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "18",
+        "title": "Ratchet Happy Birthday",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 18 - Ratchet Happy Birthday.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "19",
+        "title": "That’s How You Feel",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 19 - That’s How You Feel.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "20",
+        "title": "Blue Tint",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 20 - Blue Tint.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "21",
+        "title": "In My Feelings",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 21 - In My Feelings.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "22",
+        "title": "Don’t Matter to Me",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 22 - Don’t Matter to Me.flac"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "23",
+        "title": "After Dark",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 23 - After Dark.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "24",
+        "title": "Final Fantasy",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 24 - Final Fantasy.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "25",
+        "title": "March 14",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\Drake - Scorpion - 2018 - 25 - March 14.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "01",
+        "title": "Dawn FM",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 01 - Dawn FM.flac"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "01",
+        "title": "Dawn FM",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 01 - Dawn FM.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "02",
+        "title": "Gasoline",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 02 - Gasoline.flac"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "03",
+        "title": "How Do I Make You Love Me-",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 03 - How Do I Make You Love Me-.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "04",
+        "title": "Take My Breath",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 04 - Take My Breath.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "05",
+        "title": "Sacrifice",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 05 - Sacrifice.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "06",
+        "title": "Out of Time",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 06 - Out of Time.flac"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "07",
+        "title": "Here We Go... Again",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 07 - Here We Go... Again.flac"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "08",
+        "title": "Best Friends",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 08 - Best Friends.flac"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "09",
+        "title": "Is There Someone Else-",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 09 - Is There Someone Else-.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "10",
+        "title": "Starry Eyes",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 10 - Starry Eyes.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "11",
+        "title": "Every Angel is Terrifying",
+        "format": "flac",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 11 - Every Angel is Terrifying.flac"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "12",
+        "title": "Don't Break My Heart",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 12 - Don't Break My Heart.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "13",
+        "title": "I Heard You’re Married",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 13 - I Heard You’re Married.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "14",
+        "title": "Less Than Zero",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 14 - Less Than Zero.mp3"
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "15",
+        "title": "Phantom Regret by Jim",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/test_audio\\The Weeknd - Dawn FM - 2022 - 15 - Phantom Regret by Jim.mp3"
+    }
+]

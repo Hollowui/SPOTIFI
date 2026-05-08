@@ -1,0 +1,102 @@
+[
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "01",
+        "title": "Gasoline",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\The Weeknd - Dawn FM - 2022 - 01 - Gasoline.mp3"
+    },
+    {
+        "artist": "Taylor Swift",
+        "album": "Midnights",
+        "year": "2022",
+        "track_number": "02",
+        "title": "Anti-Hero",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\Taylor Swift - Midnights - 2022 - 02 - Anti-Hero.mp3"
+    },
+    {
+        "artist": "Dua Lipa",
+        "album": "Future Nostalgia",
+        "year": "2020",
+        "track_number": "03",
+        "title": "Break My Heart",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\Dua Lipa - Future Nostalgia - 2020 - 03 - Break My Heart.mp3"
+    },
+    {
+        "artist": "Olivia Rodrigo",
+        "album": "SOUR",
+        "year": "2021",
+        "track_number": "04",
+        "title": "good 4 u",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\Olivia Rodrigo - SOUR - 2021 - 04 - good 4 u.mp3"
+    },
+    {
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "year": "2016",
+        "track_number": "05",
+        "title": "That’s What I Like",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\Bruno Mars - 24K Magic - 2016 - 05 - That’s What I Like.mp3"
+    },
+    {
+        "artist": "Billie Eilish",
+        "album": "Happier Than Ever",
+        "year": "2021",
+        "track_number": "06",
+        "title": "Happier Than Ever",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\Billie Eilish - Happier Than Ever - 2021 - 06 - Happier Than Ever.mp3"
+    },
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "07",
+        "title": "In My Feelings",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\Drake - Scorpion - 2018 - 07 - In My Feelings.mp3"
+    },
+    {
+        "artist": "Adele",
+        "album": "25",
+        "year": "2015",
+        "track_number": "08",
+        "title": "Hello",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\Adele - 25 - 2015 - 08 - Hello.mp3"
+    },
+    {
+        "artist": "Ed Sheeran",
+        "album": "÷ (Divide)",
+        "year": "2017",
+        "track_number": "09",
+        "title": "Shape of You",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\Ed Sheeran - ÷ (Divide) - 2017 - 09 - Shape of You.mp3"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "album": "Evolve",
+        "year": "2017",
+        "track_number": "10",
+        "title": "Believer",
+        "format": "mp3",
+        "length": "Unknown",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/random songs\\Imagine Dragons - Evolve - 2017 - 10 - Believer.mp3"
+    }
+]

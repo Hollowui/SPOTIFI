@@ -1,0 +1,46 @@
+[
+    {
+        "artist": "Drake",
+        "album": "Scorpion",
+        "year": "2018",
+        "track_number": "07",
+        "title": "In My Feelings",
+        "format": "mp3",
+        "length": "3:28",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/kazka patestuot\\Drake - Scorpion - 2018 - 07 - In My Feelings.mp3",
+        "playlist_id": 1
+    },
+    {
+        "artist": "Dua Lipa",
+        "album": "Future Nostalgia",
+        "year": "2020",
+        "track_number": "03",
+        "title": "Break My Heart",
+        "format": "mp3",
+        "length": "3:28",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/kazka patestuot\\Dua Lipa - Future Nostalgia - 2020 - 03 - Break My Heart.mp3",
+        "playlist_id": 2
+    },
+    {
+        "artist": "The Weeknd",
+        "album": "Dawn FM",
+        "year": "2022",
+        "track_number": "01",
+        "title": "Gasoline",
+        "format": "mp3",
+        "length": "3:28",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/kazka patestuot\\The Weeknd - Dawn FM - 2022 - 01 - Gasoline - Copy - Copy - Copy.mp3",
+        "playlist_id": 4
+    },
+    {
+        "artist": "Taylor Swift",
+        "album": "Midnights",
+        "year": "2022",
+        "track_number": "02",
+        "title": "Anti-Hero",
+        "format": "mp3",
+        "length": "4:01",
+        "path": "C:/Users/gabij/PycharmProjects/bbzmain/kazka patestuot\\Taylor Swift - Midnights - 2022 - 02 - Anti-Hero.mp3",
+        "playlist_id": 3
+    }
+]
